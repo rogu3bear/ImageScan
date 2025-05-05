@@ -1,4 +1,4 @@
-# ImageScan: Automatic Image Tagger & Renamer
+# Vision File Name: Automatic Image Tagger & Renamer
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-ImageScan-blue?logo=github)](https://github.com/rogu3bear/ImageScan)
 
@@ -30,7 +30,7 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/rogu3bear/ImageScan.git
+git clone https://github.com/rogu3bear/vision-file-name.git
 cd ImageScan
 ```
 
@@ -136,7 +136,7 @@ python image_processor.py [OPTIONS] [-d <path_to_image_directory>]
 
 ## Contributing
 
-Contributions are welcome! Please open issues or pull requests on [GitHub](https://github.com/rogu3bear/ImageScan).
+Contributions are welcome! Please open issues or pull requests on [GitHub](https://github.com/rogu3bear/vision-file-name).
 
 ---
 
@@ -148,7 +148,7 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 ## Links
 
-- **GitHub Repository:** [https://github.com/rogu3bear/ImageScan](https://github.com/rogu3bear/ImageScan)
+- **GitHub Repository:** [https://github.com/rogu3bear/ImageScan](https://github.com/rogu3bear/vision-file-name)
 - **LMStudio:** [https://lmstudio.ai/](https://lmstudio.ai/)
 - **OpenAI API Docs:** [https://platform.openai.com/docs/api-reference](https://platform.openai.com/docs/api-reference)
 
